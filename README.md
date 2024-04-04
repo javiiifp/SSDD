@@ -1,2 +1,3 @@
-# ssdd-grupos-2324
-Descripción de los grupos y repositorios de la asignatura.
+# ssdd
+
+Código para la asignatura Sistemas Distribuidos de la UMU, curso 23-24.
